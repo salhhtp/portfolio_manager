@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "PortfolioManager",
+    "slug": "portfolio_manager",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}

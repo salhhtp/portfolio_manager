@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MyPortfolioApp",
+    "slug": "my-portfolio-app",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
